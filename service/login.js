@@ -1,6 +1,6 @@
 const AWS = require('aws-sdk');
 AWS.config.update({
-    region: ''
+    region: 'us-east-2'
 })
 const util = require('./utils/util');
 const bcrypt = require('bcryptjs');
