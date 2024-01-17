@@ -1,4 +1,5 @@
 # Authentication-Login-SYS
+********************************************************************************************************************************
 JAVA ASSIGNMENT
 TASK DESCRIPTION:
 
@@ -26,3 +27,5 @@ Note:
 3. The readme should contain all the steps, including your installation, execution of the project end to end. And also any troubleshooting steps you have taken to resolve the errors.
 4. Create an Architecture Diagram of the above implementation of all the services and tools and upload the diagram in GitHub (Please don’t take a snapshot of the architecture from the video and use third party tools like lucid chats or draw.io to do one). 
 5. Everyone complete this by EOD i.e., by Jan 14’th 2024 11:59 PM and sent the GitHub link to Shiv and show implementation by tomorrow morning(Jan 15’th 2024).
+
+*********************************************************************************************************************************
